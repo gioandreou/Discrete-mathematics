@@ -8,3 +8,4 @@ ax = plt.gca()
 df.plot(kind='line',x=labels[0],y=labels[1],ax=ax)
 
 plt.savefig("N-time_chart.png")
+#commnetß
